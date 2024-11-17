@@ -1,4 +1,4 @@
-# Florence-GeoMaps
+# Florence GeoMaps
 
 This research project focuses on the integration of various sources (visual, spatial, liturgical, and both primary and secondary documents) to digitally reconstruct and explore medieval processions in Florence. The goal is to create a rich, interactive digital archive that allows users to discover and understand the religious and social significance of these events while also identifying the physical remnants of medieval Florence tied to them.
 
